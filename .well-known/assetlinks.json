@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.locapay.locapay",
+    "sha256_cert_fingerprints":
+   ["5D:70:C4:14:7D:6B:1D:41:5B:84:75:60:26:2B:FB:FC:E4:DC:C2:DF:B1:9E:1B:01:02:A9:22:36:74:F8:64:A7"]
+  }
+}]
