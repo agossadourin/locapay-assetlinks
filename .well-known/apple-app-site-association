@@ -1,0 +1,15 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": ["GWC77HTXY3.com.locapay.app"],
+        "components": [
+          {
+            "/": "#",
+            "comment": "Matches any URL with a path that starts with /app/"
+          }
+        ]
+      }
+    ]
+  }
+}
