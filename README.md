@@ -18,3 +18,4 @@ The `assetlinks.json` file contains the necessary configuration to verify the re
 ## Usage
 
 Deploy this to your web server at the root domain to enable app link verification for the LocaPay mobile application.
+# locapay-assetlinks
