@@ -1,9 +1,26 @@
-[{
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "com.locapay.locapay",
-    "sha256_cert_fingerprints":
-   ["5D:70:C4:14:7D:6B:1D:41:5B:84:75:60:26:2B:FB:FC:E4:DC:C2:DF:B1:9E:1B:01:02:A9:22:36:74:F8:64:A7"]
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.locapay.locapay",
+      "sha256_cert_fingerprints": [
+        "5D:70:C4:14:7D:6B:1D:41:5B:84:75:60:26:2B:FB:FC:E4:DC:C2:DF:B1:9E:1B:01:02:A9:22:36:74:F8:64:A7"
+      ]
+    }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.agossadourin01.locapayapp",
+      "sha256_cert_fingerprints": [
+        "D0:A2:FE:71:8E:CD:8A:BD:37:7B:C2:F4:D0:26:25:39:0A:FB:6A:D5:62:F0:F0:7F:1C:C1:A9:D1:B9:CD:4B:58"
+      ]
+    }
   }
-}]
+]
